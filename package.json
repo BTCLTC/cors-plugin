@@ -1,0 +1,14 @@
+{
+  "name": "first-plugs",
+  "version": "1.0.0",
+  "description": "first-plugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
